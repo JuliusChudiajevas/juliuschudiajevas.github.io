@@ -13,7 +13,7 @@
       <link>http://localhost:1313/en/post/manopostas/</link>
       <pubDate>Wed, 18 Dec 2024 22:17:38 +0200</pubDate>
       <guid>http://localhost:1313/en/post/manopostas/</guid>
-      <description>&lt;p&gt;vienas sakinys. kitas, ilgesnis, sakinys.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;def hello(a:Int) = ???&lt;/code&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;vienas sakinys. kitas, ilgesnis, sakinys.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;def hello(a:Int) = ???&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/tn.png&#34; alt=&#34;paveiksliukas&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
