@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens on mano saitas</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://juliuschudiajevas.github.io/en/</link>
     <description>Recent content in Ens on mano saitas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2024 22:17:38 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliuschudiajevas.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manopostas</title>
-      <link>http://localhost:1313/en/post/manopostas/</link>
+      <link>https://juliuschudiajevas.github.io/en/post/manopostas/</link>
       <pubDate>Wed, 18 Dec 2024 22:17:38 +0200</pubDate>
-      <guid>http://localhost:1313/en/post/manopostas/</guid>
-      <description>&lt;p&gt;vienas sakinys. kitas, ilgesnis, sakinys.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;def hello(a:Int) = ???&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;%22../../../../../themes/lightbi/images/tn.png%22&#34; alt=&#34;paveiksliukas&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://juliuschudiajevas.github.io/en/post/manopostas/</guid>
+      <description>&lt;p&gt;vienas sakinys. kitas, ilgesnis, sakinys.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;def hello(a:Int) = ???&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://juliuschudiajevas.github.io/images/tn.png&#34; alt=&#34;paveiksliukas&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
